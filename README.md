@@ -3,8 +3,8 @@ Projeto desenvolvido pelo aluno César Augusto no Bootcamp Santander dado pela D
 
 **Programa Bootcamp Santander**
 
-##Esse projeto, é um projeto proposto como desafio no programa de Bootcamp Santander,
-##onde o aluno tem que seguir os seguintes passos
+## Esse projeto, é um projeto proposto como desafio no programa de Bootcamp Santander,
+## onde o aluno tem que seguir os seguintes passos
 
 ### Criar o repositório em sua conta do git hub
 ### Commitar o repositório ao ser criado na sua conta
